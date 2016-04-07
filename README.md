@@ -10,7 +10,7 @@ O objetivo era testar e quebrar a segurança do aplicativo e encontrar a flag em
 #Instalando apk
 Ao instalar o apk em um sistema Android, de cara nos deparamos com um Aplicativo chamado Flag
 onde encontrariamos um ```QR Code```.
-![img1](Captura de Tela (143).png)
+![img1](aplicativo.png)
 
 Ao escanear esse códigodo ele nos retorna uma mensagem
 >Procure melhor! PNG! PNG!
